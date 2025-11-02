@@ -1,4 +1,4 @@
-# AI Reasoning Glossary
+
 
 RLP  
 CHL  
@@ -18,3 +18,9 @@ daa-gaa
 ETS, CFR, LEI, ISRT
 ----
 CFS
+----
+CRA IMBTS 
+SE  CTRML
+FCI L1–L5
+   
+    
